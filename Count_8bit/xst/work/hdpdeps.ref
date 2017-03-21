@@ -1,0 +1,6 @@
+V3 3
+FL D:/Develop/Circuit/Count_8bit/main.vhd 2017/03/21.14:04:59 P.20131013
+EN work/COUNT_8BIT 1490073228 FL D:/Develop/Circuit/Count_8bit/main.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/COUNT_8BIT/HB 1490073229 \
+      FL D:/Develop/Circuit/Count_8bit/main.vhd EN work/COUNT_8BIT 1490073228

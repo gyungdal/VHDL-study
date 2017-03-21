@@ -1,0 +1,14 @@
+xst -intstyle ise -ifn "D:/Develop/Circuit/Count_8bit/COUNT_8BIT.xst" -ofn "D:/Develop/Circuit/Count_8bit/COUNT_8BIT.syr" 
+xst -intstyle ise -ifn "D:/Develop/Circuit/Count_8bit/COUNT_8BIT.xst" -ofn "D:/Develop/Circuit/Count_8bit/COUNT_8BIT.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc counter.ucf -p xc3s200-pq208-4 COUNT_8BIT.ngc COUNT_8BIT.ngd  
+map -intstyle ise -p xc3s200-pq208-4 -cm area -ir off -pr off -c 100 -o COUNT_8BIT_map.ncd COUNT_8BIT.ngd COUNT_8BIT.pcf 
+par -w -intstyle ise -ol high -t 1 COUNT_8BIT_map.ncd COUNT_8BIT.ncd COUNT_8BIT.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc counter.ucf -p xc3s200-pq208-4 COUNT_8BIT.ngc COUNT_8BIT.ngd  
+map -intstyle ise -p xc3s200-pq208-4 -cm area -ir off -pr off -c 100 -o COUNT_8BIT_map.ncd COUNT_8BIT.ngd COUNT_8BIT.pcf 
+par -w -intstyle ise -ol high -t 1 COUNT_8BIT_map.ncd COUNT_8BIT.ncd COUNT_8BIT.pcf 
+xst -intstyle ise -ifn "D:/Develop/Circuit/Count_8bit/COUNT_8BIT.xst" -ofn "D:/Develop/Circuit/Count_8bit/COUNT_8BIT.syr" 
+xst -intstyle ise -ifn "D:/Develop/Circuit/Count_8bit/COUNT_8BIT.xst" -ofn "D:/Develop/Circuit/Count_8bit/COUNT_8BIT.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 COUNT_8BIT.ngc COUNT_8BIT.ngd  
+map -intstyle ise -p xc3s200-pq208-4 -cm area -ir off -pr off -c 100 -o COUNT_8BIT_map.ncd COUNT_8BIT.ngd COUNT_8BIT.pcf 
+par -w -intstyle ise -ol high -t 1 COUNT_8BIT_map.ncd COUNT_8BIT.ncd COUNT_8BIT.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml COUNT_8BIT.twx COUNT_8BIT.ncd -o COUNT_8BIT.twr COUNT_8BIT.pcf 
