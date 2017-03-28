@@ -1,0 +1,10 @@
+V3 7
+FL D:/Develop/Circuit/Not/NOT.vhd 2017/03/28.13:44:13 P.20131013
+EN work/HB_NOT 1490677360 FL D:/Develop/Circuit/Not/NOT.vhd
+AR work/HB_NOT/HB 1490677361 \
+      FL D:/Develop/Circuit/Not/NOT.vhd EN work/HB_NOT 1490677360
+FL D:/Develop/Circuit/Not/TB_NOT.vhd 2017/03/28.14:02:36 P.20131013
+EN work/TB_HB_NOT 1490677362 FL D:/Develop/Circuit/Not/TB_NOT.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/TB_HB_NOT/HB 1490677363 \
+      FL D:/Develop/Circuit/Not/TB_NOT.vhd EN work/TB_HB_NOT 1490677362 CP HB_NOT

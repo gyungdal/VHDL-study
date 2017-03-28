@@ -1,0 +1,4 @@
+EN tb_hb_not NULL D:/Develop/Circuit/Not/TB_NOT.vhd sub00/vhpl02 1490677362
+AR hb_not hb D:/Develop/Circuit/Not/NOT.vhd sub00/vhpl01 1490677361
+EN hb_not NULL D:/Develop/Circuit/Not/NOT.vhd sub00/vhpl00 1490677360
+AR tb_hb_not hb D:/Develop/Circuit/Not/TB_NOT.vhd sub00/vhpl03 1490677363

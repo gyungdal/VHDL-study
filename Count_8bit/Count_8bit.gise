@@ -71,6 +71,7 @@
   <transforms xmlns="http://www.xilinx.com/XMLSchema">
     <transform xil_pn:end_ts="1490072671" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1490072671">
       <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
     </transform>
     <transform xil_pn:end_ts="1490072671" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-4444487982054239033" xil_pn:start_ts="1490072671">
       <status xil_pn:value="SuccessfullyRun"/>
@@ -99,6 +100,7 @@
     <transform xil_pn:end_ts="1490073232" xil_pn:in_ck="4774924130197" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="1569835683814150401" xil_pn:start_ts="1490073227">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="COUNT_8BIT.lso"/>
@@ -121,6 +123,7 @@
     <transform xil_pn:end_ts="1490074310" xil_pn:in_ck="5410542847312249701" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-8205740356534157557" xil_pn:start_ts="1490074305">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="COUNT_8BIT.bld"/>
@@ -132,6 +135,7 @@
     <transform xil_pn:end_ts="1490074314" xil_pn:in_ck="5410542847312249702" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="6068476255904139836" xil_pn:start_ts="1490074310">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <outfile xil_pn:name="COUNT_8BIT.pcf"/>
       <outfile xil_pn:name="COUNT_8BIT_map.map"/>
       <outfile xil_pn:name="COUNT_8BIT_map.mrp"/>
@@ -145,6 +149,7 @@
     <transform xil_pn:end_ts="1490074321" xil_pn:in_ck="-2181081505742727809" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="3333849164707216606" xil_pn:start_ts="1490074314">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <outfile xil_pn:name="COUNT_8BIT.ncd"/>
       <outfile xil_pn:name="COUNT_8BIT.pad"/>
       <outfile xil_pn:name="COUNT_8BIT.par"/>
@@ -159,6 +164,7 @@
     <transform xil_pn:end_ts="1490074321" xil_pn:in_ck="5410542847312249570" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1490074319">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <outfile xil_pn:name="COUNT_8BIT.twr"/>
       <outfile xil_pn:name="COUNT_8BIT.twx"/>
       <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
