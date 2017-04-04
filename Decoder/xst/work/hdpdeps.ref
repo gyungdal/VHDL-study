@@ -1,0 +1,12 @@
+V3 7
+FL D:/Develop/Circuit/Decoder/DECODER.vhd 2017/04/04.15:35:11 P.20131013
+EN work/HB_38DECODER 1491287745 FL D:/Develop/Circuit/Decoder/DECODER.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/HB_38DECODER/HB 1491287746 \
+      FL D:/Develop/Circuit/Decoder/DECODER.vhd EN work/HB_38DECODER 1491287745
+FL D:/Develop/Circuit/Decoder/TB_DECODER.vhd 2017/04/04.15:35:34 P.20131013
+EN work/TB_HB_38DECODER 1491287747 FL D:/Develop/Circuit/Decoder/TB_DECODER.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/TB_HB_38DECODER/HB 1491287748 \
+      FL D:/Develop/Circuit/Decoder/TB_DECODER.vhd EN work/TB_HB_38DECODER 1491287747 \
+      CP HB_38DECODER

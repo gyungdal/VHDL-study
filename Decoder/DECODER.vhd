@@ -1,0 +1,27 @@
+LIBRARY IEEE; 
+USE IEEE.STD_LOGIC_1164.ALL; 
+ENTITY HB_38DECODER IS 
+PORT(
+        A, B, C : IN STD_LOGIC; 
+        O : OUT STD_LOGIC_VECTOR(7 DOWNTO 0)
+ ); 
+END HB_38DECODER; 
+ARCHITECTURE HB OF HB_38DECODER IS 
+SIGNAL REG : STD_LOGIC_VECTOR(2 DOWNTO 0); 
+BEGIN 
+REG <= A & B & C; 
+PROCESS(REG) 
+BEGIN 
+     CASE REG IS 
+          WHEN "000" => O <= "00000001"; 
+          WHEN "001" => O <= "00000010"; 
+          WHEN "010" => O <= "00000100"; 
+          WHEN "011" => O <= "00001000"; 
+          WHEN "100" => O <= "00010000"; 
+          WHEN "101" => O <= "00100000"; 
+          WHEN "110" => O <= "01000000"; 
+          WHEN "111" => O <= "10000000"; 
+          WHEN OTHERS => NULL; 
+     END CASE; 
+END PROCESS; 
+END HB; 	

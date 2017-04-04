@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Develop/Circuit/Decoder/TB_HB_38DECODER.xst" -ofn "D:/Develop/Circuit/Decoder/TB_HB_38DECODER.syr" 
