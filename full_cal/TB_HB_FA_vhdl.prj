@@ -1,0 +1,3 @@
+vhdl work "D:\Develop\Circuit\half_add\cal.vhd"
+vhdl work "D:\Develop\Circuit\full_cal\FULL_CAL.vhd"
+vhdl work "D:\Develop\Circuit\full_cal\TB_FULL_CAL.vhd"

@@ -26,6 +26,12 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity DECODER_7447
 -- Compiling architecture DECODER of DECODER_7447
 
+} {} {}} D:/Develop/Circuit/half_add/cal.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/half_add/cal.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity HB_HA
+-- Compiling architecture HB of HB_HA
+
 } {} {}} D:/Develop/Circuit/Half_Cal/Half_Cal.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/Half_Cal/Half_Cal.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
@@ -70,6 +76,20 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 ** Warning: D:/Develop/Circuit/NAND/TB_NAND.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
 ** Warning: D:/Develop/Circuit/NAND/TB_NAND.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
 ** Warning: D:/Develop/Circuit/NAND/TB_NAND.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/Develop/Circuit/half_add/TB_CAL.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/half_add/TB_CAL.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity TB_HB_HA
+-- Compiling architecture HB of TB_HB_HA
+** Warning: D:/Develop/Circuit/half_add/TB_CAL.vhd(15): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_CAL.vhd(15): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_CAL.vhd(15): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_CAL.vhd(16): (vcom-1207) An abstract literal and an identifier must have a separator between them.
 
 } {} {}} D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015

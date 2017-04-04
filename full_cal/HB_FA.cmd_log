@@ -1,0 +1,13 @@
+xst -intstyle ise -ifn "D:/Develop/Circuit/full_cal/HB_FA.xst" -ofn "D:/Develop/Circuit/full_cal/HB_FA.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 HB_FA.ngc HB_FA.ngd  
+xst -intstyle ise -ifn "D:/Develop/Circuit/full_cal/HB_FA.xst" -ofn "D:/Develop/Circuit/full_cal/HB_FA.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 HB_FA.ngc HB_FA.ngd  
+xst -intstyle ise -ifn "D:/Develop/Circuit/full_cal/HB_FA.xst" -ofn "D:/Develop/Circuit/full_cal/HB_FA.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 HB_FA.ngc HB_FA.ngd  
+xst -intstyle ise -ifn "D:/Develop/Circuit/full_cal/HB_FA.xst" -ofn "D:/Develop/Circuit/full_cal/HB_FA.syr" 
+xst -intstyle ise -ifn "D:/Develop/Circuit/full_cal/HB_FA.xst" -ofn "D:/Develop/Circuit/full_cal/HB_FA.syr" 
+xst -intstyle ise -ifn "D:/Develop/Circuit/full_cal/HB_FA.xst" -ofn "D:/Develop/Circuit/full_cal/HB_FA.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 HB_FA.ngc HB_FA.ngd  
+map -intstyle ise -p xc3s200-pq208-4 -cm area -ir off -pr off -c 100 -o HB_FA_map.ncd HB_FA.ngd HB_FA.pcf 
+par -w -intstyle ise -ol high -t 1 HB_FA_map.ncd HB_FA.ncd HB_FA.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml HB_FA.twx HB_FA.ncd -o HB_FA.twr HB_FA.pcf 

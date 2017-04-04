@@ -21,9 +21,9 @@ V3`77gNMnf3QmZ?IeXBMe41
 !s100 `ViE`b5^aJ4Ta1Yk0h:jM0
 Z6 OP;C;10.4a;61
 32
-Z7 !s110 1491282539
+Z7 !s110 1491285972
 !i10b 1
-Z8 !s108 1491282539.000000
+Z8 !s108 1491285972.000000
 Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/first_7447/7447_DECODER.vhd|
 Z10 !s107 D:/Develop/Circuit/first_7447/7447_DECODER.vhd|
 !i113 1
@@ -47,11 +47,89 @@ R10
 !i113 1
 R11
 R12
-Ehb_ha
-Z13 w1491282531
+Ehb_4fa
+Z13 w1491285840
+Z14 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
 R3
-Z14 8D:/Develop/Circuit/half_add/cal.vhd
-Z15 FD:/Develop/Circuit/half_add/cal.vhd
+Z16 8D:/Develop/Circuit/parallel_binary_cal/HD_4FA.vhd
+Z17 FD:/Develop/Circuit/parallel_binary_cal/HD_4FA.vhd
+l0
+L5
+Vf^CA;j4D:H[`59:HQRTjz1
+!s100 3CHmhbKb;nXS7b<JBadkJ1
+R6
+32
+Z18 !s110 1491285988
+!i10b 1
+Z19 !s108 1491285988.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/parallel_binary_cal/HD_4FA.vhd|
+Z21 !s107 D:/Develop/Circuit/parallel_binary_cal/HD_4FA.vhd|
+!i113 1
+R11
+R12
+Ahb
+R14
+R15
+R1
+R2
+DEx4 work 6 hb_4fa 0 22 f^CA;j4D:H[`59:HQRTjz1
+l15
+L13
+VSUK]3Ii[eHDYzZRlzf_za1
+!s100 neNDENJC<YBhLn:o8=FU02
+R6
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R11
+R12
+Ehb_fa
+Z22 w1491285478
+R3
+Z23 8D:\Develop\Circuit\half_add\HB_FA.vhd
+Z24 FD:\Develop\Circuit\half_add\HB_FA.vhd
+l0
+L1
+VkjC=P<zY<CH9KjOhh]ZTH2
+!s100 YC`Yd6iXZR<FRmh1^QzTS3
+R6
+32
+Z25 !s110 1491285973
+!i10b 1
+Z26 !s108 1491285973.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Develop\Circuit\half_add\HB_FA.vhd|
+Z28 !s107 D:\Develop\Circuit\half_add\HB_FA.vhd|
+!i113 1
+R11
+R12
+Ahb
+DEx4 work 5 hb_fa 0 22 kjC=P<zY<CH9KjOhh]ZTH2
+l16
+L7
+V4hb73UaoL9SAzfg;OjUTj2
+!s100 ^U0Vo^FnHV]^2?:9Y^KkR1
+R6
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R11
+R12
+Ehb_ha
+Z29 w1491282531
+R3
+Z30 8D:/Develop/Circuit/half_add/cal.vhd
+Z31 FD:/Develop/Circuit/half_add/cal.vhd
 l0
 L1
 V2P9f1cN@81V3S:@F2EMF41
@@ -61,8 +139,8 @@ R6
 R7
 !i10b 1
 R8
-Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/half_add/cal.vhd|
-Z17 !s107 D:/Develop/Circuit/half_add/cal.vhd|
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/half_add/cal.vhd|
+Z33 !s107 D:/Develop/Circuit/half_add/cal.vhd|
 !i113 1
 R11
 R12
@@ -77,18 +155,18 @@ R6
 R7
 !i10b 1
 R8
-R16
-R17
+R32
+R33
 !i113 1
 R11
 R12
 Ehb_nand
-Z18 w1490679880
+Z34 w1490679880
 R1
 R2
 R3
-Z19 8D:/Develop/Circuit/NAND/NAND.vhd
-Z20 FD:/Develop/Circuit/NAND/NAND.vhd
+Z35 8D:/Develop/Circuit/NAND/NAND.vhd
+Z36 FD:/Develop/Circuit/NAND/NAND.vhd
 l0
 L4
 VchMc9Cmme^Vm9o1MnOfLn2
@@ -98,8 +176,8 @@ R6
 R7
 !i10b 1
 R8
-Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/NAND/NAND.vhd|
-Z22 !s107 D:/Develop/Circuit/NAND/NAND.vhd|
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/NAND/NAND.vhd|
+Z38 !s107 D:/Develop/Circuit/NAND/NAND.vhd|
 !i113 1
 R11
 R12
@@ -116,16 +194,16 @@ R6
 R7
 !i10b 1
 R8
-R21
-R22
+R37
+R38
 !i113 1
 R11
 R12
 Ehb_not
-Z23 w1490676253
+Z39 w1490676253
 R3
-Z24 8D:/Develop/Circuit/Not/NOT.vhd
-Z25 FD:/Develop/Circuit/Not/NOT.vhd
+Z40 8D:/Develop/Circuit/Not/NOT.vhd
+Z41 FD:/Develop/Circuit/Not/NOT.vhd
 l0
 L1
 VDnU>Yzh2FImo3Ll4mQ<7e1
@@ -135,8 +213,8 @@ R6
 R7
 !i10b 1
 R8
-Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/Not/NOT.vhd|
-Z27 !s107 D:/Develop/Circuit/Not/NOT.vhd|
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/Not/NOT.vhd|
+Z43 !s107 D:/Develop/Circuit/Not/NOT.vhd|
 !i113 1
 R11
 R12
@@ -151,27 +229,27 @@ R6
 R7
 !i10b 1
 R8
-R26
-R27
+R42
+R43
 !i113 1
 R11
 R12
 Emodule_ha
-Z28 w1491282200
+Z44 w1491282200
 R3
-R14
-R15
+R30
+R31
 l0
 L1
 Vd]bjAIdlBf;5<ADJ7WhJ:1
 !s100 CdZaHNfSF9[monA6d[6O:3
 R6
 32
-Z29 !s110 1491282495
+Z45 !s110 1491282495
 !i10b 1
-Z30 !s108 1491282495.000000
-R16
-R17
+Z46 !s108 1491282495.000000
+R32
+R33
 !i113 1
 R11
 R12
@@ -183,19 +261,19 @@ VazW5Mlh5:kRQCR13cnzZ11
 !s100 ?chk1JA49nIk3;]V=j_OO0
 R6
 32
-R29
+R45
 !i10b 1
-R30
-R16
-R17
+R46
+R32
+R33
 !i113 1
 R11
 R12
 Enand_4
-Z31 w1490684716
+Z47 w1490684716
 R3
-Z32 8D:/Develop/Circuit/Not_inner_4/NAND_4.vhd
-Z33 FD:/Develop/Circuit/Not_inner_4/NAND_4.vhd
+Z48 8D:/Develop/Circuit/Not_inner_4/NAND_4.vhd
+Z49 FD:/Develop/Circuit/Not_inner_4/NAND_4.vhd
 l0
 L1
 Vn?SlHi=D3Xm=1ZK7PkY6W3
@@ -205,8 +283,8 @@ R6
 R7
 !i10b 1
 R8
-Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/Not_inner_4/NAND_4.vhd|
-Z35 !s107 D:/Develop/Circuit/Not_inner_4/NAND_4.vhd|
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/Not_inner_4/NAND_4.vhd|
+Z51 !s107 D:/Develop/Circuit/Not_inner_4/NAND_4.vhd|
 !i113 1
 R11
 R12
@@ -221,37 +299,37 @@ R6
 R7
 !i10b 1
 R8
-R34
-R35
+R50
+R51
 !i113 1
 R11
 R12
 Etb_ha
-Z36 w1491282434
-Z37 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
-Z38 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z52 w1491282434
+R14
+R15
 R1
 R2
 R3
-Z39 8D:/Develop/Circuit/half_add/TB_CAL.vhd
-Z40 FD:/Develop/Circuit/half_add/TB_CAL.vhd
+Z53 8D:/Develop/Circuit/half_add/TB_CAL.vhd
+Z54 FD:/Develop/Circuit/half_add/TB_CAL.vhd
 l0
 L4
 VKSJeDAihzSRiccKc9B__e3
 !s100 0D@@ho4Q2L:17h>YEgDCZ2
 R6
 32
-R29
+R45
 !i10b 1
-R30
-Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/half_add/TB_CAL.vhd|
-Z42 !s107 D:/Develop/Circuit/half_add/TB_CAL.vhd|
+R46
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/half_add/TB_CAL.vhd|
+Z56 !s107 D:/Develop/Circuit/half_add/TB_CAL.vhd|
 !i113 1
 R11
 R12
 Aha
-R37
-R38
+R14
+R15
 R1
 R2
 DEx4 work 5 tb_ha 0 22 KSJeDAihzSRiccKc9B__e3
@@ -261,23 +339,66 @@ VPi4>D^6hgC6T=QA?XN[nM1
 !s100 1B1lgW3HMTTa`Y?GJmz_?0
 R6
 32
-R29
+R45
 !i10b 1
-R30
-R41
-R42
+R46
+R55
+R56
+!i113 1
+R11
+R12
+Etb_hb_4fa
+Z57 w1491285861
+R14
+R15
+R1
+R2
+R3
+Z58 8D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd
+Z59 FD:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd
+l0
+L5
+VU]e`bCU>d8okMQKPAdb840
+!s100 D]JY0nF2kDZ`?dGREY7eL0
+R6
+32
+Z60 !s110 1491285976
+!i10b 1
+Z61 !s108 1491285976.000000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd|
+Z63 !s107 D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd|
+!i113 1
+R11
+R12
+Ahb
+R14
+R15
+R1
+R2
+DEx4 work 9 tb_hb_4fa 0 22 U]e`bCU>d8okMQKPAdb840
+l20
+L7
+VI4E2I[n[dTN4DBYH95m??2
+!s100 koL3ACemOF@n1hJ8^LS@;3
+R6
+32
+R60
+!i10b 1
+R61
+R62
+R63
 !i113 1
 R11
 R12
 Etb_hb_and2
-Z43 w1490081007
-R37
-R38
+Z64 w1490081007
+R14
+R15
 R1
 R2
 R3
-Z44 8D:/Develop/Circuit/AND/TEST_AND.vhd
-Z45 FD:/Develop/Circuit/AND/TEST_AND.vhd
+Z65 8D:/Develop/Circuit/AND/TEST_AND.vhd
+Z66 FD:/Develop/Circuit/AND/TEST_AND.vhd
 l0
 L4
 V0Oh21CH95Pl7Ge^RM=aG41
@@ -286,15 +407,15 @@ R6
 32
 R7
 !i10b 1
-R8
-Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/AND/TEST_AND.vhd|
-Z47 !s107 D:/Develop/Circuit/AND/TEST_AND.vhd|
+Z67 !s108 1491285971.000000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/AND/TEST_AND.vhd|
+Z69 !s107 D:/Develop/Circuit/AND/TEST_AND.vhd|
 !i113 1
 R11
 R12
 Ahb
-R37
-R38
+R14
+R15
 R1
 R2
 DEx4 work 10 tb_hb_and2 0 22 0Oh21CH95Pl7Ge^RM=aG41
@@ -307,20 +428,63 @@ R6
 !s110 1490080321
 !i10b 1
 !s108 1490080321.000000
-R46
-R47
+R68
+R69
+!i113 1
+R11
+R12
+Etb_hb_fa
+Z70 w1491285496
+R14
+R15
+R1
+R2
+R3
+Z71 8D:/Develop/Circuit/half_add/TB_HB_FA.vhd
+Z72 FD:/Develop/Circuit/half_add/TB_HB_FA.vhd
+l0
+L5
+V4ZDz5XUSf>KhMT:WAK3iZ0
+!s100 @NbcoY@B3I5N7j@b=YSl>1
+R6
+32
+R25
+!i10b 1
+R8
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/half_add/TB_HB_FA.vhd|
+Z74 !s107 D:/Develop/Circuit/half_add/TB_HB_FA.vhd|
+!i113 1
+R11
+R12
+Ahb
+R14
+R15
+R1
+R2
+DEx4 work 8 tb_hb_fa 0 22 4ZDz5XUSf>KhMT:WAK3iZ0
+l17
+L7
+VWD[Q><[M=JhDHn<LkQm@j3
+!s100 `>:@:3e0L1]nB[Y6abJP71
+R6
+32
+R25
+!i10b 1
+R8
+R73
+R74
 !i113 1
 R11
 R12
 Etb_hb_ha
-Z48 w1491282519
-R37
-R38
+Z75 w1491282519
+R14
+R15
 R1
 R2
 R3
-R39
-R40
+R53
+R54
 l0
 L4
 V8VdfBXhUHlG>i2=mA0b1B1
@@ -330,40 +494,40 @@ R6
 R7
 !i10b 1
 R8
-R41
-R42
+R55
+R56
 !i113 1
 R11
 R12
 Ahb
-R37
-R38
+R14
+R15
 R1
 R2
-Z49 DEx4 work 8 tb_hb_ha 0 22 8VdfBXhUHlG>i2=mA0b1B1
+DEx4 work 8 tb_hb_ha 0 22 8VdfBXhUHlG>i2=mA0b1B1
 l14
 L6
-Z50 VabVmT@@<Kb[Ye?kQO0b2>2
-Z51 !s100 L<0122N[a>G=25?gh<TGe1
+VabVmT@@<Kb[Ye?kQO0b2>2
+!s100 L<0122N[a>G=25?gh<TGe1
 R6
 32
 R7
 !i10b 1
 R8
-R41
-R42
+R55
+R56
 !i113 1
 R11
 R12
 Etb_hb_nand
-Z52 w1490679858
-R37
-R38
+Z76 w1490679858
+R14
+R15
 R1
 R2
 R3
-Z53 8D:/Develop/Circuit/NAND/TB_NAND.vhd
-Z54 FD:/Develop/Circuit/NAND/TB_NAND.vhd
+Z77 8D:/Develop/Circuit/NAND/TB_NAND.vhd
+Z78 FD:/Develop/Circuit/NAND/TB_NAND.vhd
 l0
 L4
 Va03lncBG1AiQf:P]YGiPY0
@@ -373,14 +537,14 @@ R6
 R7
 !i10b 1
 R8
-Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/NAND/TB_NAND.vhd|
-Z56 !s107 D:/Develop/Circuit/NAND/TB_NAND.vhd|
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/NAND/TB_NAND.vhd|
+Z80 !s107 D:/Develop/Circuit/NAND/TB_NAND.vhd|
 !i113 1
 R11
 R12
 Ahb
-R37
-R38
+R14
+R15
 R1
 R2
 DEx4 work 10 tb_hb_nand 0 22 a03lncBG1AiQf:P]YGiPY0
@@ -393,20 +557,20 @@ R6
 R7
 !i10b 1
 R8
-R55
-R56
+R79
+R80
 !i113 1
 R11
 R12
 Etb_hb_not
-Z57 w1490677356
-R37
-R38
+Z81 w1490677356
+R14
+R15
 R1
 R2
 R3
-Z58 8D:/Develop/Circuit/Not/TB_NOT.vhd
-Z59 FD:/Develop/Circuit/Not/TB_NOT.vhd
+Z82 8D:/Develop/Circuit/Not/TB_NOT.vhd
+Z83 FD:/Develop/Circuit/Not/TB_NOT.vhd
 l0
 L4
 V4eB[HeBQ1MQBoU`?ZkI^g0
@@ -416,14 +580,14 @@ R6
 R7
 !i10b 1
 R8
-Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/Not/TB_NOT.vhd|
-Z61 !s107 D:/Develop/Circuit/Not/TB_NOT.vhd|
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/Not/TB_NOT.vhd|
+Z85 !s107 D:/Develop/Circuit/Not/TB_NOT.vhd|
 !i113 1
 R11
 R12
 Ahb
-R37
-R38
+R14
+R15
 R1
 R2
 DEx4 work 9 tb_hb_not 0 22 4eB[HeBQ1MQBoU`?ZkI^g0
@@ -436,20 +600,20 @@ R6
 R7
 !i10b 1
 R8
-R60
-R61
+R84
+R85
 !i113 1
 R11
 R12
 Etb_nand_4
-Z62 w1490685247
-R37
-R38
+Z86 w1490685247
+R14
+R15
 R1
 R2
 R3
-Z63 8D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd
-Z64 FD:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd
+Z87 8D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd
+Z88 FD:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd
 l0
 L4
 VSJ9AEoY=^DP6EMB8[:BTC0
@@ -459,14 +623,14 @@ R6
 R7
 !i10b 1
 R8
-Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd|
-Z66 !s107 D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd|
+Z89 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd|
+Z90 !s107 D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd|
 !i113 1
 R11
 R12
 Atb
-R37
-R38
+R14
+R15
 R1
 R2
 DEx4 work 9 tb_nand_4 0 22 SJ9AEoY=^DP6EMB8[:BTC0
@@ -479,27 +643,27 @@ R6
 R7
 !i10b 1
 R8
-R65
-R66
+R89
+R90
 !i113 1
 R11
 R12
 Etest
-Z67 w1490079840
+Z91 w1490079840
 R3
-Z68 8D:/Develop/Circuit/AND/AND.vhd
-Z69 FD:/Develop/Circuit/AND/AND.vhd
+Z92 8D:/Develop/Circuit/AND/AND.vhd
+Z93 FD:/Develop/Circuit/AND/AND.vhd
 l0
 L3
 VKH5Bi?gddoB]R7;CTX1NF2
 !s100 MZVJ<bzmjcPFd9_R0MEH?2
 R6
 32
-R7
+Z94 !s110 1491285971
 !i10b 1
-Z70 !s108 1491282538.000000
-Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/AND/AND.vhd|
-Z72 !s107 D:/Develop/Circuit/AND/AND.vhd|
+R67
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Develop/Circuit/AND/AND.vhd|
+Z96 !s107 D:/Develop/Circuit/AND/AND.vhd|
 !i113 1
 R11
 R12
@@ -511,11 +675,11 @@ VdL6oCSnU1kH>Y3091ZL=W3
 !s100 [>D`nV^W8n_P40:Z2>c:c1
 R6
 32
-R7
+R94
 !i10b 1
-R70
-R71
-R72
+R67
+R95
+R96
 !i113 1
 R11
 R12

@@ -1,0 +1,3 @@
+vhdl work "../half_add/cal.vhd"
+vhdl work "FULL_CAL.vhd"
+vhdl work "TB_FULL_CAL.vhd"

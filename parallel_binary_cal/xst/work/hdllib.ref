@@ -1,0 +1,4 @@
+AR tb_hb_4fa hb D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd sub00/vhpl03 1491285952
+EN tb_hb_4fa NULL D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd sub00/vhpl02 1491285951
+AR hb_4fa hb D:/Develop/Circuit/parallel_binary_cal/HD_4FA.vhd sub00/vhpl01 1491285950
+EN hb_4fa NULL D:/Develop/Circuit/parallel_binary_cal/HD_4FA.vhd sub00/vhpl00 1491285949

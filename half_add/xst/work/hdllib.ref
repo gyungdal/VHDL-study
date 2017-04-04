@@ -1,8 +1,8 @@
 AR module_ha ha D:/Develop/Circuit/half_add/cal.vhd sub00/vhpl01 1491282464
 AR tb_ha ha D:/Develop/Circuit/half_add/TB_CAL.vhd sub00/vhpl03 1491282466
-AR tb_hb_ha hb D:/Develop/Circuit/half_add/TB_CAL.vhd sub00/vhpl07 1491282538
+AR tb_hb_ha hb D:/Develop/Circuit/half_add/TB_CAL.vhd sub00/vhpl07 1491285500
 EN tb_ha NULL D:/Develop/Circuit/half_add/TB_CAL.vhd sub00/vhpl02 1491282465
-EN hb_ha NULL D:/Develop/Circuit/half_add/cal.vhd sub00/vhpl04 1491282535
-AR hb_ha hb D:/Develop/Circuit/half_add/cal.vhd sub00/vhpl05 1491282536
-EN tb_hb_ha NULL D:/Develop/Circuit/half_add/TB_CAL.vhd sub00/vhpl06 1491282537
+EN hb_ha NULL D:/Develop/Circuit/half_add/cal.vhd sub00/vhpl04 1491285497
+AR hb_ha hb D:/Develop/Circuit/half_add/cal.vhd sub00/vhpl05 1491285498
+EN tb_hb_ha NULL D:/Develop/Circuit/half_add/TB_CAL.vhd sub00/vhpl06 1491285499
 EN module_ha NULL D:/Develop/Circuit/half_add/cal.vhd sub00/vhpl00 1491282463

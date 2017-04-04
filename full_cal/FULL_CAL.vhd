@@ -1,21 +1,32 @@
-ENTITY HB_HA IS 
+ENTITY HB_FA IS 
 PORT( 
-       A, B : IN BIT; 
-       S, C : OUT BIT 
+       A, B, CIN : IN BIT; 
+       S, COUT : OUT BIT 
 ); 
-END HB_HA; 
-ARCHITECTURE HB OF HB_HA IS 
-BEGIN
-PROCESS(A, B) 
+END HB_FA; 
+ARCHITECTURE HB OF HB_FA IS 
+       COMPONENT HB_HA IS 
+       PORT( 
+              A, B : IN BIT; 
+              S, C : OUT BIT 
+); 
+END COMPONENT; 
+SIGNAL REG_C1, REG_C2 : BIT; 
+SIGNAL REG_SUM : BIT; 
 BEGIN 
-       IF A = B THEN S <= '0'; 
-       ELSE  S <= '1';
-       END IF; 
-END PROCESS; 
-PROCESS(A, B)
-BEGIN 
-       IF A = '1' AND B = '1' THEN C <= '1'; 
-       ELSE C <= '0'; 
-       END IF; 
-END PROCESS; 
+     U1_HA : HB_HA 
+     PORT MAP( 
+           A => A, 
+           B => B, 
+           S => REG_SUM,  
+           C => REG_C1 
+); 
+U2_HA : HB_HA 
+PORT MAP( 
+       A => CIN, 
+       B => REG_SUM, 
+       S => S, 
+       C => REG_C2 
+);
+ COUT <= REG_C1 OR REG_C2; 
 END HB; 	

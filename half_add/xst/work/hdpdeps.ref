@@ -1,17 +1,11 @@
 V3 12
 FL D:/Develop/Circuit/half_add/cal.vhd 2017/04/04.14:08:51 P.20131013
-AR work/MODULE_HA/HA 1491282464 FL D:/Develop/Circuit/half_add/cal.vhd \
-      EN work/MODULE_HA 1491282463
-EN work/HB_HA 1491282535 \
-      FL D:/Develop/Circuit/half_add/cal.vhd
-AR work/HB_HA/HB 1491282536 \
-      FL D:/Develop/Circuit/half_add/cal.vhd EN work/HB_HA 1491282535
+EN work/HB_HA 1491285497 FL D:/Develop/Circuit/half_add/cal.vhd
+AR work/HB_HA/HB 1491285498 \
+      FL D:/Develop/Circuit/half_add/cal.vhd EN work/HB_HA 1491285497
 FL D:/Develop/Circuit/half_add/TB_CAL.vhd 2017/04/04.14:08:39 P.20131013
-AR work/TB_HA/HA 1491282466 FL D:/Develop/Circuit/half_add/TB_CAL.vhd \
-      EN work/TB_HA 1491282465 CP MODULE_HA
-EN work/TB_HB_HA 1491282537 \
-      FL D:/Develop/Circuit/half_add/TB_CAL.vhd PB ieee/std_logic_1164 1381692176 \
-      PB ieee/STD_LOGIC_UNSIGNED 1381692179
-AR work/TB_HB_HA/HB 1491282538 \
-      FL D:/Develop/Circuit/half_add/TB_CAL.vhd EN work/TB_HB_HA 1491282537 \
+EN work/TB_HB_HA 1491285499 FL D:/Develop/Circuit/half_add/TB_CAL.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/TB_HB_HA/HB 1491285500 \
+      FL D:/Develop/Circuit/half_add/TB_CAL.vhd EN work/TB_HB_HA 1491285499 \
       CP HB_HA
