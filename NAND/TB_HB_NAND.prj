@@ -1,0 +1,2 @@
+vhdl work "NAND.vhd"
+vhdl work "TB_NAND.vhd"

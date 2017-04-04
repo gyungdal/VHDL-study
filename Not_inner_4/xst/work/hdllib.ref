@@ -1,0 +1,4 @@
+EN nand_4 NULL D:/Develop/Circuit/Not_inner_4/NAND_4.vhd sub00/vhpl00 1490685250
+AR tb_nand_4 tb D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd sub00/vhpl03 1490685253
+AR nand_4 nand_inner D:/Develop/Circuit/Not_inner_4/NAND_4.vhd sub00/vhpl01 1490685251
+EN tb_nand_4 NULL D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd sub00/vhpl02 1490685252

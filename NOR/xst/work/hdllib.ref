@@ -1,0 +1,4 @@
+EN tb_hb_nor NULL D:/Develop/Circuit/NOR/TB_NOR.vhd sub00/vhpl02 1490681139
+AR tb_hb_nor hb D:/Develop/Circuit/NOR/TB_NOR.vhd sub00/vhpl03 1490681140
+EN hb_nor NULL D:/Develop/Circuit/NOR/NOR.vhd sub00/vhpl00 1490681137
+AR hb_nor hb D:/Develop/Circuit/NOR/NOR.vhd sub00/vhpl01 1490681138

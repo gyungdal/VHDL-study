@@ -1,0 +1,2 @@
+vhdl work "NOR.vhd"
+vhdl work "TB_NOR.vhd"

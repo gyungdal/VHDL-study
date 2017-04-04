@@ -1,0 +1,11 @@
+V3 7
+FL D:/Develop/Circuit/Not_inner_4/NAND_4.vhd 2017/03/28.16:05:16 P.20131013
+EN work/NAND_4 1490685250 FL D:/Develop/Circuit/Not_inner_4/NAND_4.vhd
+AR work/NAND_4/NAND_INNER 1490685251 \
+      FL D:/Develop/Circuit/Not_inner_4/NAND_4.vhd EN work/NAND_4 1490685250
+FL D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd 2017/03/28.16:14:07 P.20131013
+EN work/TB_NAND_4 1490685252 FL D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/TB_NAND_4/TB 1490685253 \
+      FL D:/Develop/Circuit/Not_inner_4/TB_NAND_4.vhd EN work/TB_NAND_4 1490685252 \
+      CP NAND_4

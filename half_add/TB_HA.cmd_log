@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Develop/Circuit/half_add/TB_HA.xst" -ofn "D:/Develop/Circuit/half_add/TB_HA.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 TB_HA.ngc TB_HA.ngd  

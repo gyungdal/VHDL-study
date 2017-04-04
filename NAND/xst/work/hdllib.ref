@@ -1,0 +1,4 @@
+EN tb_hb_nand NULL D:/Develop/Circuit/NAND/TB_NAND.vhd sub00/vhpl02 1490679887
+EN hb_nand NULL D:/Develop/Circuit/NAND/NAND.vhd sub00/vhpl00 1490679885
+AR hb_nand hb D:/Develop/Circuit/NAND/NAND.vhd sub00/vhpl01 1490679886
+AR tb_hb_nand hb D:/Develop/Circuit/NAND/TB_NAND.vhd sub00/vhpl03 1490679888

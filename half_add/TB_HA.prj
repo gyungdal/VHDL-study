@@ -1,0 +1,2 @@
+vhdl work "cal.vhd"
+vhdl work "TB_CAL.vhd"

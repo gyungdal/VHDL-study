@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Develop/Circuit/NOR/TB_HB_NOR.xst" -ofn "D:/Develop/Circuit/NOR/TB_HB_NOR.syr" 

@@ -1,0 +1,24 @@
+LIBRARY IEEE; 
+USE IEEE.STD_LOGIC_1164.ALL; 
+USE IEEE.STD_LOGIC_UNSIGNED.ALL; 
+ENTITY TB_HB_HA IS 
+END TB_HB_HA; 
+ARCHITECTURE HB OF TB_HB_HA IS
+COMPONENT HB_HA PORT (
+        A, B : IN BIT; 
+        S, C : OUT BIT 
+); 
+END COMPONENT; 
+SIGNAL A, B : BIT := '0'; 	
+SIGNAL S, C : BIT := '0'; 
+BEGIN
+A <= '0', '1' AFTER 500NS, '0' AFTER 1000NS, '1' AFTER 1500NS; 
+B <= '0', '1' AFTER 1000NS; 
+U_HB_HA : HB_HA 
+PORT MAP (
+        A => A, 
+        B => B, 
+        S => S, 
+        C => C 
+);
+ END HB; 	

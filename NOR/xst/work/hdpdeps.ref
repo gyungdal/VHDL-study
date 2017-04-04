@@ -1,0 +1,10 @@
+V3 7
+FL D:/Develop/Circuit/NOR/NOR.vhd 2017/03/28.15:04:36 P.20131013
+EN work/HB_NOR 1490681137 FL D:/Develop/Circuit/NOR/NOR.vhd PB ieee/std_logic_1164 1381692176
+AR work/HB_NOR/HB 1490681138 \
+      FL D:/Develop/Circuit/NOR/NOR.vhd EN work/HB_NOR 1490681137
+FL D:/Develop/Circuit/NOR/TB_NOR.vhd 2017/03/28.15:04:42 P.20131013
+EN work/TB_HB_NOR 1490681139 FL D:/Develop/Circuit/NOR/TB_NOR.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/TB_HB_NOR/HB 1490681140 \
+      FL D:/Develop/Circuit/NOR/TB_NOR.vhd EN work/TB_HB_NOR 1490681139 CP HB_NOR

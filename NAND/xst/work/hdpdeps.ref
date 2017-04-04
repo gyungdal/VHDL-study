@@ -1,0 +1,12 @@
+V3 7
+FL D:/Develop/Circuit/NAND/NAND.vhd 2017/03/28.14:44:40 P.20131013
+EN work/HB_NAND 1490679885 FL D:/Develop/Circuit/NAND/NAND.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/HB_NAND/HB 1490679886 \
+      FL D:/Develop/Circuit/NAND/NAND.vhd EN work/HB_NAND 1490679885
+FL D:/Develop/Circuit/NAND/TB_NAND.vhd 2017/03/28.14:44:18 P.20131013
+EN work/TB_HB_NAND 1490679887 FL D:/Develop/Circuit/NAND/TB_NAND.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/TB_HB_NAND/HB 1490679888 \
+      FL D:/Develop/Circuit/NAND/TB_NAND.vhd EN work/TB_HB_NAND 1490679887 \
+      CP HB_NAND
