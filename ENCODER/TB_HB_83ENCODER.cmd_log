@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Develop/Circuit/ENCODER/TB_HB_83ENCODER.xst" -ofn "D:/Develop/Circuit/ENCODER/TB_HB_83ENCODER.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 TB_HB_83ENCODER.ngc TB_HB_83ENCODER.ngd  
