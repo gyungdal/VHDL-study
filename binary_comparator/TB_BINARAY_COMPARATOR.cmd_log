@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/Develop/Circuit/binary_comparator/TB_BINARAY_COMPARATOR.xst" -ofn "D:/Develop/Circuit/binary_comparator/TB_BINARAY_COMPARATOR.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 TB_BINARAY_COMPARATOR.ngc TB_BINARAY_COMPARATOR.ngd  
+xst -intstyle ise -ifn "D:/Develop/Circuit/binary_comparator/TB_BINARAY_COMPARATOR.xst" -ofn "D:/Develop/Circuit/binary_comparator/TB_BINARAY_COMPARATOR.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 TB_BINARAY_COMPARATOR.ngc TB_BINARAY_COMPARATOR.ngd  

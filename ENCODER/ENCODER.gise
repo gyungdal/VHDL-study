@@ -31,6 +31,7 @@
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="TB_HB_83ENCODER.stx"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="TB_HB_83ENCODER.syr"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="TB_HB_83ENCODER.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="TB_HB_83ENCODER_envsettings.html"/>
     <file xil_pn:fileType="FILE_XRPT" xil_pn:name="TB_HB_83ENCODER_ngdbuild.xrpt"/>
     <file xil_pn:fileType="FILE_HTML" xil_pn:name="TB_HB_83ENCODER_summary.html"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TB_HB_83ENCODER_vhdl.prj"/>
@@ -46,6 +47,7 @@
   <transforms xmlns="http://www.xilinx.com/XMLSchema">
     <transform xil_pn:end_ts="1491288658" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1491288658">
       <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
     </transform>
     <transform xil_pn:end_ts="1491288658" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="5623987906055950481" xil_pn:start_ts="1491288658">
       <status xil_pn:value="SuccessfullyRun"/>
@@ -71,7 +73,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1491288664" xil_pn:in_ck="-9112396662147998059" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="2466911488078283211" xil_pn:start_ts="1491288658">
+    <transform xil_pn:end_ts="1492490906" xil_pn:in_ck="-9112396662147998059" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="-6500901160612556905" xil_pn:start_ts="1492490893">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
       <status xil_pn:value="ReadyToRun"/>
@@ -92,7 +94,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1491288667" xil_pn:in_ck="-4564480349813629233" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-795935419236220363" xil_pn:start_ts="1491288664">
+    <transform xil_pn:end_ts="1492490913" xil_pn:in_ck="-4564480349813629233" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-795935419236220363" xil_pn:start_ts="1492490907">
       <status xil_pn:value="FailedRun"/>
       <status xil_pn:value="WarningsGenerated"/>
       <status xil_pn:value="ReadyToRun"/>

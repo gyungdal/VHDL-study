@@ -1,0 +1,2 @@
+vhdl work "BINARY_COMPARATOR.vhd"
+vhdl work "TB_BINARY_COMPARATOR.vhd"

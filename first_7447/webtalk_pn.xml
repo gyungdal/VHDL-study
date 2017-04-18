@@ -3,10 +3,10 @@
 <!--The data in this file is primarily intended for consumption by Xilinx tools.
 The structure and the elements are likely to change over the next few releases.
 This means code written to parse this file will need to be revisited each subsequent release.-->
-<application name="pn" timeStamp="Tue Mar 28 14:58:38 2017">
+<application name="pn" timeStamp="Tue Apr 18 14:51:33 2017">
 <section name="Project Information" visible="false">
 <property name="ProjectID" value="8D988CAC95674733A92F9AE507C40E3E" type="project"/>
-<property name="ProjectIteration" value="0" type="project"/>
+<property name="ProjectIteration" value="1" type="project"/>
 <property name="ProjectFile" value="D:/Develop/Circuit/first_7447/first_7447.xise" type="project"/>
 <property name="ProjectCreationTimestamp" value="2017-03-28T14:09:37" type="project"/>
 </section>
@@ -25,6 +25,7 @@ This means code written to parse this file will need to be revisited each subseq
 <property name="PROP_UserConstraintEditorPreference" value="Text Editor" type="process"/>
 <property name="PROP_intProjectCreationTimestamp" value="2017-03-28T14:09:37" type="design"/>
 <property name="PROP_intWbtProjectID" value="8D988CAC95674733A92F9AE507C40E3E" type="design"/>
+<property name="PROP_intWbtProjectIteration" value="1" type="process"/>
 <property name="PROP_intWorkingDirLocWRTProjDir" value="Same" type="design"/>
 <property name="PROP_intWorkingDirUsed" value="No" type="design"/>
 <property name="PROP_xilxBitgStart_IntDone" value="true" type="process"/>
@@ -36,7 +37,7 @@ This means code written to parse this file will need to be revisited each subseq
 <property name="PROP_Synthesis_Tool" value="XST (VHDL/Verilog)" type="design"/>
 <property name="PROP_DevSpeed" value="-4" type="design"/>
 <property name="PROP_PreferredLanguage" value="VHDL" type="design"/>
-<property name="FILE_VHDL" value="1" type="source"/>
+<property name="FILE_VHDL" value="2" type="source"/>
 </section>
 </application>
 </document>

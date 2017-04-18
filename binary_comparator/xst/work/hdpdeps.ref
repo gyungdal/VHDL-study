@@ -1,0 +1,13 @@
+V3 7
+FL D:/Develop/Circuit/binary_comparator/BINARY_COMPARATOR.vhd 2017/04/18.14:25:41 P.20131013
+EN work/BC 1492494315 \
+      FL D:/Develop/Circuit/binary_comparator/BINARY_COMPARATOR.vhd
+AR work/BC/BC_INNER 1492494316 \
+      FL D:/Develop/Circuit/binary_comparator/BINARY_COMPARATOR.vhd EN work/BC 1492494315
+FL D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd 2017/04/18.14:11:34 P.20131013
+EN work/TB_BC 1492494317 \
+      FL D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/TB_BC/HB 1492494318 \
+      FL D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd \
+      EN work/TB_BC 1492494317 CP BC

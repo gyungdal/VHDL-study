@@ -1,2 +1,4 @@
-EN decoder_7447 NULL D:/Develop/Circuit/first_7447/7447_DECODER.vhd sub00/vhpl00 1490680719
-AR decoder_7447 decoder D:/Develop/Circuit/first_7447/7447_DECODER.vhd sub00/vhpl01 1490680720
+AR tb_7447 hb D:/Develop/Circuit/first_7447/TB_7447.vhd sub00/vhpl03 1492494697
+EN decoder_7447 NULL D:/Develop/Circuit/first_7447/7447_DECODER.vhd sub00/vhpl00 1492494694
+AR decoder_7447 decoder D:/Develop/Circuit/first_7447/7447_DECODER.vhd sub00/vhpl01 1492494695
+EN tb_7447 NULL D:/Develop/Circuit/first_7447/TB_7447.vhd sub00/vhpl02 1492494696

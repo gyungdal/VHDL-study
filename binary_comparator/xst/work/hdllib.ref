@@ -1,0 +1,9 @@
+EN bc NULL D:/Develop/Circuit/binary_comparator/BINARY_COMPARATOR.vhd sub00/vhpl06 1492494315
+AR tb_bc hb D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd sub00/vhpl08 1492494318
+EN tb_bc NULL D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd sub00/vhpl04 1492494317
+AR tb_bc tb D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd sub00/vhpl05 1492492157
+AR bc bc_inner D:/Develop/Circuit/binary_comparator/BINARY_COMPARATOR.vhd sub00/vhpl07 1492494316
+EN tb_binaray_comparator NULL D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd sub00/vhpl02 1492491795
+AR binaray_comparator binaray_compare D:/Develop/Circuit/binary_comparator/BINARY_COMPARATOR.vhd sub00/vhpl01 1492491794
+AR tb_binaray_comparator tb D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd sub00/vhpl03 1492491796
+EN binaray_comparator NULL D:/Develop/Circuit/binary_comparator/BINARY_COMPARATOR.vhd sub00/vhpl00 1492491793

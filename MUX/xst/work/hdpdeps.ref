@@ -1,0 +1,10 @@
+V3 7
+FL D:/Develop/Circuit/MUX/MUX.vhd 2017/04/18.15:59:09 P.20131013
+EN work/HB_2MUX 1492498794 FL D:/Develop/Circuit/MUX/MUX.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/HB_2MUX/HB 1492498795 \
+      FL D:/Develop/Circuit/MUX/MUX.vhd EN work/HB_2MUX 1492498794
+EN work/TB_HB_2MUX 0 FL D:/Develop/Circuit/MUX/TB_MUX.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/TB_HB_2MUX/HB 0 \
+      FL D:/Develop/Circuit/MUX/TB_MUX.vhd EN work/TB_HB_2MUX 0 CP HB_2MUX

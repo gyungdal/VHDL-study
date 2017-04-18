@@ -1,0 +1,29 @@
+LIBRARY IEEE; 
+USE IEEE.STD_LOGIC_1164.ALL; 
+USE IEEE.STD_LOGIC_UNSIGNED.ALL; 
+ENTITY TB_BC IS 
+END TB_BC; 
+ARCHITECTURE HB OF TB_BC IS 
+COMPONENT BC
+PORT (
+        A, B : IN BIT; 
+        X, Y, Z : OUT BIT 
+);
+END COMPONENT; 
+SIGNAL A : BIT := '0'; 
+SIGNAL B : BIT := '0'; 
+SIGNAL X : BIT := '0'; 
+SIGNAL Y : BIT := '0'; 
+SIGNAL Z : BIT := '0'; 
+BEGIN 
+A <= '0', '1' AFTER 100NS, '0' AFTER 300NS, '1' AFTER 400NS, '0' AFTER 500NS; 
+B <= '0', '1' AFTER 100NS, '0' AFTER 200NS, '1' AFTER 400NS;
+U_BC : BC
+PORT MAP ( 
+       A => A, 	
+       B => B,
+       X => X,
+       Y => Y, 
+       Z => Z 
+);
+END HB; 	

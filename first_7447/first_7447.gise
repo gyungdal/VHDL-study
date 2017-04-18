@@ -31,20 +31,62 @@
     <file xil_pn:fileType="FILE_HTML" xil_pn:name="7447_DECODER_summary.html"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="7447_DECODER_vhdl.prj"/>
     <file xil_pn:fileType="FILE_XRPT" xil_pn:name="7447_DECODER_xst.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="DECODER_7447.bld"/>
     <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="DECODER_7447.cmd_log"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="DECODER_7447.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="DECODER_7447.ncd" xil_pn:subbranch="Par"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="DECODER_7447.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="DECODER_7447.ngd"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="DECODER_7447.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="DECODER_7447.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="DECODER_7447.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="DECODER_7447.pcf" xil_pn:subbranch="Map"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DECODER_7447.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="DECODER_7447.ptwx"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="DECODER_7447.stx"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="DECODER_7447.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="DECODER_7447.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="DECODER_7447.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="DECODER_7447.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="DECODER_7447.xpi"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="DECODER_7447.xst"/>
     <file xil_pn:fileType="FILE_HTML" xil_pn:name="DECODER_7447_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="DECODER_7447_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="DECODER_7447_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="DECODER_7447_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="DECODER_7447_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="DECODER_7447_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="DECODER_7447_map.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="DECODER_7447_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="DECODER_7447_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="DECODER_7447_par.xrpt"/>
     <file xil_pn:fileType="FILE_HTML" xil_pn:name="DECODER_7447_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="DECODER_7447_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="DECODER_7447_usage.xml"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DECODER_7447_vhdl.prj"/>
     <file xil_pn:fileType="FILE_XRPT" xil_pn:name="DECODER_7447_xst.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="TB_7447.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="TB_7447.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="TB_7447.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="TB_7447.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="TB_7447.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TB_7447.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="TB_7447.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="TB_7447.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="TB_7447.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="TB_7447_envsettings.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="TB_7447_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="TB_7447_summary.html"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TB_7447_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="TB_7447_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
     <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
     <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
     <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
   </files>
 
@@ -53,11 +95,11 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1490678301" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-2448359431495540065" xil_pn:start_ts="1490678301">
+    <transform xil_pn:end_ts="1492494682" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="9039689932526294771" xil_pn:start_ts="1492494682">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1490678301" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-4930204235410913285" xil_pn:start_ts="1490678301">
+    <transform xil_pn:end_ts="1492494682" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="891959405409299599" xil_pn:start_ts="1492494682">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
@@ -65,7 +107,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1490678301" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-5903561831083129113" xil_pn:start_ts="1490678301">
+    <transform xil_pn:end_ts="1492494682" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-1684247263893176005" xil_pn:start_ts="1492494682">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
@@ -73,26 +115,78 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1490678301" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-9144668456749087419" xil_pn:start_ts="1490678301">
+    <transform xil_pn:end_ts="1492494682" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-5051702143117171367" xil_pn:start_ts="1492494682">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1490680723" xil_pn:in_ck="-3344441061242926597" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="3437104904194927653" xil_pn:start_ts="1490680718">
+    <transform xil_pn:end_ts="1492494698" xil_pn:in_ck="3786379686126165878" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="-4358523481716990599" xil_pn:start_ts="1492494693">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="WarningsGenerated"/>
       <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="DECODER_7447.lso"/>
-      <outfile xil_pn:name="DECODER_7447.ngc"/>
-      <outfile xil_pn:name="DECODER_7447.ngr"/>
-      <outfile xil_pn:name="DECODER_7447.prj"/>
-      <outfile xil_pn:name="DECODER_7447.stx"/>
-      <outfile xil_pn:name="DECODER_7447.syr"/>
-      <outfile xil_pn:name="DECODER_7447.xst"/>
-      <outfile xil_pn:name="DECODER_7447_vhdl.prj"/>
-      <outfile xil_pn:name="DECODER_7447_xst.xrpt"/>
+      <outfile xil_pn:name="TB_7447.lso"/>
+      <outfile xil_pn:name="TB_7447.ngc"/>
+      <outfile xil_pn:name="TB_7447.ngr"/>
+      <outfile xil_pn:name="TB_7447.prj"/>
+      <outfile xil_pn:name="TB_7447.stx"/>
+      <outfile xil_pn:name="TB_7447.syr"/>
+      <outfile xil_pn:name="TB_7447.xst"/>
+      <outfile xil_pn:name="TB_7447_vhdl.prj"/>
+      <outfile xil_pn:name="TB_7447_xst.xrpt"/>
       <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
       <outfile xil_pn:name="webtalk_pn.xml"/>
       <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1492494685" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-8135186436963781360" xil_pn:start_ts="1492494685">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1492494702" xil_pn:in_ck="-9152070357215773310" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-854992587658056809" xil_pn:start_ts="1492494698">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="TB_7447.bld"/>
+      <outfile xil_pn:name="TB_7447_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1492494657" xil_pn:in_ck="7541604816485052402" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="6068476255904139836" xil_pn:start_ts="1492494651">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="DECODER_7447.pcf"/>
+      <outfile xil_pn:name="DECODER_7447_map.map"/>
+      <outfile xil_pn:name="DECODER_7447_map.mrp"/>
+      <outfile xil_pn:name="DECODER_7447_map.ncd"/>
+      <outfile xil_pn:name="DECODER_7447_map.ngm"/>
+      <outfile xil_pn:name="DECODER_7447_map.xrpt"/>
+      <outfile xil_pn:name="DECODER_7447_summary.xml"/>
+      <outfile xil_pn:name="DECODER_7447_usage.xml"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1492494664" xil_pn:in_ck="-8764612629801539573" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="3333849164707216606" xil_pn:start_ts="1492494657">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="DECODER_7447.ncd"/>
+      <outfile xil_pn:name="DECODER_7447.pad"/>
+      <outfile xil_pn:name="DECODER_7447.par"/>
+      <outfile xil_pn:name="DECODER_7447.ptwx"/>
+      <outfile xil_pn:name="DECODER_7447.unroutes"/>
+      <outfile xil_pn:name="DECODER_7447.xpi"/>
+      <outfile xil_pn:name="DECODER_7447_pad.csv"/>
+      <outfile xil_pn:name="DECODER_7447_pad.txt"/>
+      <outfile xil_pn:name="DECODER_7447_par.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1492494664" xil_pn:in_ck="7541604816485052270" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1492494662">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="DECODER_7447.twr"/>
+      <outfile xil_pn:name="DECODER_7447.twx"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
     </transform>
   </transforms>
 

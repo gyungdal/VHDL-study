@@ -1,0 +1,16 @@
+xst -intstyle ise -ifn "D:/Develop/Circuit/binary_comparator/TB_BC.xst" -ofn "D:/Develop/Circuit/binary_comparator/TB_BC.syr" 
+xst -intstyle ise -ifn "D:/Develop/Circuit/binary_comparator/TB_BC.xst" -ofn "D:/Develop/Circuit/binary_comparator/TB_BC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 TB_BC.ngc TB_BC.ngd  
+xst -intstyle ise -ifn "D:/Develop/Circuit/binary_comparator/TB_BC.xst" -ofn "D:/Develop/Circuit/binary_comparator/TB_BC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 TB_BC.ngc TB_BC.ngd  
+xst -intstyle ise -ifn "D:/Develop/Circuit/binary_comparator/TB_BC.xst" -ofn "D:/Develop/Circuit/binary_comparator/TB_BC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 TB_BC.ngc TB_BC.ngd  
+xst -intstyle ise -ifn "D:/Develop/Circuit/binary_comparator/TB_BC.xst" -ofn "D:/Develop/Circuit/binary_comparator/TB_BC.syr" 
+xst -intstyle ise -ifn "D:/Develop/Circuit/binary_comparator/TB_BC.xst" -ofn "D:/Develop/Circuit/binary_comparator/TB_BC.syr" 
+xst -intstyle ise -ifn "D:/Develop/Circuit/binary_comparator/TB_BC.xst" -ofn "D:/Develop/Circuit/binary_comparator/TB_BC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 TB_BC.ngc TB_BC.ngd  
+xst -intstyle ise -ifn "D:/Develop/Circuit/binary_comparator/TB_BC.xst" -ofn "D:/Develop/Circuit/binary_comparator/TB_BC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 TB_BC.ngc TB_BC.ngd  
+xst -intstyle ise -ifn "D:/Develop/Circuit/binary_comparator/TB_BC.xst" -ofn "D:/Develop/Circuit/binary_comparator/TB_BC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 TB_BC.ngc TB_BC.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s200-pq208-4 TB_BC.ngc TB_BC.ngd  

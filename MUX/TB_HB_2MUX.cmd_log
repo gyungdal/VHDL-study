@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Develop/Circuit/MUX/TB_HB_2MUX.xst" -ofn "D:/Develop/Circuit/MUX/TB_HB_2MUX.syr" 

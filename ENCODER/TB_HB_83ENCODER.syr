@@ -4,13 +4,13 @@ Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.08 secs
+Total CPU time to Xst completion: 0.46 secs
  
 --> Parameter xsthdpdir set to xst
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.08 secs
+Total CPU time to Xst completion: 0.46 secs
  
 --> Reading design: TB_HB_83ENCODER.prj
 
@@ -68,7 +68,7 @@ Automatic Register Balancing       : No
 
 ---- Target Options
 Add IO Buffers                     : YES
-Global Maximum Fanout              : 500
+Global Maximum Fanout              : 100000
 Add Generic Clock Buffer(BUFG)     : 8
 Register Duplication               : YES
 Slice Packing                      : YES
@@ -105,27 +105,25 @@ Slice Utilization Ratio Delta      : 5
 *                          HDL Compilation                              *
 =========================================================================
 Compiling vhdl file "D:/Develop/Circuit/ENCODER/ENCDOER.vhd" in Library work.
-Entity <HB_83ENCODER> compiled.
-Entity <HB_83ENCODER> (Architecture <HB>) compiled.
+Architecture hb of Entity hb_83encoder is up to date.
 Compiling vhdl file "D:/Develop/Circuit/ENCODER/TB_ENCODER.vhd" in Library work.
-Entity <TB_HB_83ENCODER> compiled.
-Entity <TB_HB_83ENCODER> (Architecture <HB>) compiled.
+Architecture hb of Entity tb_hb_83encoder is up to date.
 
 =========================================================================
 *                     Design Hierarchy Analysis                         *
 =========================================================================
-Analyzing hierarchy for entity <TB_HB_83ENCODER> in library <work> (architecture <HB>).
+Analyzing hierarchy for entity <TB_HB_83ENCODER> in library <work> (architecture <hb>).
 
-Analyzing hierarchy for entity <HB_83ENCODER> in library <work> (architecture <HB>).
+Analyzing hierarchy for entity <HB_83ENCODER> in library <work> (architecture <hb>).
 
 
 =========================================================================
 *                            HDL Analysis                               *
 =========================================================================
-Analyzing Entity <TB_HB_83ENCODER> in library <work> (Architecture <HB>).
+Analyzing Entity <TB_HB_83ENCODER> in library <work> (Architecture <hb>).
 Entity <TB_HB_83ENCODER> analyzed. Unit <TB_HB_83ENCODER> generated.
 
-Analyzing Entity <HB_83ENCODER> in library <work> (Architecture <HB>).
+Analyzing Entity <HB_83ENCODER> in library <work> (Architecture <hb>).
 Entity <HB_83ENCODER> analyzed. Unit <HB_83ENCODER> generated.
 
 
@@ -259,12 +257,12 @@ All values displayed in nanoseconds (ns)
 =========================================================================
 
 
-Total REAL time to Xst completion: 3.00 secs
-Total CPU time to Xst completion: 3.12 secs
+Total REAL time to Xst completion: 4.00 secs
+Total CPU time to Xst completion: 4.36 secs
  
 --> 
 
-Total memory usage is 249844 kilobytes
+Total memory usage is 252848 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    2 (   0 filtered)

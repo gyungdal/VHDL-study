@@ -1,4 +1,21 @@
-D:/Develop/Circuit/AND/AND.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/AND/AND.vhd
+D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity TB_BC
+-- Compiling architecture HB of TB_BC
+** Warning: D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/binary_comparator/TB_BINARY_COMPARATOR.vhd(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/Develop/Circuit/AND/AND.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/AND/AND.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Compiling entity TEST
@@ -18,7 +35,42 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 ** Warning: D:/Develop/Circuit/Not/TB_NOT.vhd(15): (vcom-1207) An abstract literal and an identifier must have a separator between them.
 ** Warning: D:/Develop/Circuit/Not/TB_NOT.vhd(15): (vcom-1207) An abstract literal and an identifier must have a separator between them.
 
-} {} {}} D:/Develop/Circuit/first_7447/7447_DECODER.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/first_7447/7447_DECODER.vhd
+} {} {}} D:/Develop/Circuit/binary_comparator/BINARY_COMPARATOR.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/binary_comparator/BINARY_COMPARATOR.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity BC
+-- Compiling architecture BC_INNER of BC
+
+} {} {}} D:/Develop/Circuit/ENCODER/ENCDOER.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/ENCODER/ENCDOER.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HB_83ENCODER
+-- Compiling architecture HB of HB_83ENCODER
+
+} {} {}} D:/Develop/Circuit/half_add/TB_HB_FA.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/half_add/TB_HB_FA.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity TB_HB_FA
+-- Compiling architecture HB of TB_HB_FA
+** Warning: D:/Develop/Circuit/half_add/TB_HB_FA.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_HB_FA.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_HB_FA.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_HB_FA.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_HB_FA.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_HB_FA.vhd(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_HB_FA.vhd(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_HB_FA.vhd(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_HB_FA.vhd(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_HB_FA.vhd(20): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/half_add/TB_HB_FA.vhd(21): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/Develop/Circuit/first_7447/7447_DECODER.vhd {1 {vcom -work work -2002 -explicit -stats=none {D:\Develop\Circuit\first_7447\7447_DECODER.vhd}
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -26,11 +78,40 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity DECODER_7447
 -- Compiling architecture DECODER of DECODER_7447
 
+} {} {}} D:/Develop/Circuit/Decoder/TB_DECODER.vhd {2 {vcom -work work -2002 -explicit -stats=none {D:\Develop\Circuit\Decoder\TB_DECODER.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity TB_HB_38DECODER
+-- Compiling architecture HB of TB_HB_38DECODER
+** Warning: D:\Develop\Circuit\Decoder\TB_DECODER.vhd(15): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\Decoder\TB_DECODER.vhd(16): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\Decoder\TB_DECODER.vhd(16): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\Decoder\TB_DECODER.vhd(16): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\Decoder\TB_DECODER.vhd(17): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\Decoder\TB_DECODER.vhd(17): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\Decoder\TB_DECODER.vhd(17): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\Decoder\TB_DECODER.vhd(17): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\Decoder\TB_DECODER.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\Decoder\TB_DECODER.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\Decoder\TB_DECODER.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
 } {} {}} D:/Develop/Circuit/half_add/cal.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/half_add/cal.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Compiling entity HB_HA
 -- Compiling architecture HB of HB_HA
+
+} {} {}} D:/Develop/Circuit/Decoder/DECODER.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/Decoder/DECODER.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HB_38DECODER
+-- Compiling architecture HB of HB_38DECODER
 
 } {} {}} D:/Develop/Circuit/Half_Cal/Half_Cal.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/Half_Cal/Half_Cal.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -60,7 +141,34 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
     D:/Develop/Circuit/AND/TEST_AND.vhd(19):Conditional signal assignment line__19
 ** Error: D:/Develop/Circuit/AND/TEST_AND.vhd(26): VHDL Compiler exiting
 
-} {17.0 18.0 21.0 22.0} {}} D:/Develop/Circuit/NAND/TB_NAND.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/NAND/TB_NAND.vhd
+} {17.0 18.0 21.0 22.0} {}} D:/Develop/Circuit/ENCODER/TB_ENCODER.vhd {2 {vcom -work work -2002 -explicit -stats=none {D:\Develop\Circuit\ENCODER\TB_ENCODER.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity TB_HB_83ENCODER
+-- Compiling architecture HB of TB_HB_83ENCODER
+** Warning: D:\Develop\Circuit\ENCODER\TB_ENCODER.vhd(17): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\ENCODER\TB_ENCODER.vhd(17): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\ENCODER\TB_ENCODER.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\ENCODER\TB_ENCODER.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\ENCODER\TB_ENCODER.vhd(18): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\ENCODER\TB_ENCODER.vhd(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:\Develop\Circuit\ENCODER\TB_ENCODER.vhd(19): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/Develop/Circuit/parallel_binary_cal/HD_4FA.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/parallel_binary_cal/HD_4FA.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity HB_4FA
+-- Compiling architecture HB of HB_4FA
+
+} {} {}} D:/Develop/Circuit/NAND/TB_NAND.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/NAND/TB_NAND.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -136,6 +244,27 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading package STANDARD
 -- Compiling entity HB_NOT
 -- Compiling architecture HB of HB_NOT
+
+} {} {}} D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity TB_HB_4FA
+-- Compiling architecture HB of TB_HB_4FA
+** Warning: D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd(21): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd(21): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd(22): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: D:/Develop/Circuit/parallel_binary_cal/TB_HD_4FA.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} D:/Develop/Circuit/half_add/HB_FA.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/half_add/HB_FA.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling entity HB_FA
+-- Compiling architecture HB of HB_FA
 
 } {} {}} D:/Develop/Circuit/Not_inner_4/NAND_4.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Develop/Circuit/Not_inner_4/NAND_4.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
